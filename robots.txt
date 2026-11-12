@@ -4,4 +4,4 @@ Allow: /
 User-agent: Mediapartners-Google
 Allow: /
 
-Sitemap: https://file1pdfedit.pages.dev/sitemap.xml
+Sitemap: https://www.file1pdfedit.theworkpc.com/sitemap.xml
